@@ -1,0 +1,19 @@
+GitHub.com/prtcandido/sbrepo
+
+Trabalho
+========
+
+Desenvolver API com o seguintes requisitos:
+1) Usar Spring Boot
+2) Usar banco de dados relacional
+3) Não pode conter classes do exemplo do professor
+4) Deve conter no mínimo 4 classes persistentes (armazenadas no BD)
+5) Uma das classes deve ser definida por extensão (com herança)
+6) Deve haver ao menos uma associação OneToMany
+7) Deve haver ao menos uma associação ManyToMany
+8) Deve usar as estrutura do projeto do professor (controller, services, repository etc)
+9) Desenvolver métodos nos controller para realizar as operações de insert, update e delete e consultas aos dados das classes.
+
+Entrega: semana seguinte a P2. Grupo deverá apresentar apenas para o professor e disponibilizar fontes no GITHUB. Professor fará perguntas aos membros do grupo, podendo descontar nota individual do aluno.
+
+Grupo: até 4 alunos.
